@@ -15,9 +15,9 @@ The dataset contains information about randomly chosen medium articles published
 
 ### Observations and Conclusions made- 
                        topic       claps
-0       Deep Learning and AI  263.275862
-1      General Data Analysis  302.196507
-2  Machine Learning Modeling  286.637255
+* 0       Deep Learning and AI  263.275862
+* 1      General Data Analysis  302.196507
+* 2  Machine Learning Modeling  286.637255
 
 It was found out that hese were the topics which were more likely to get attention. This was based in the number of claps.
 
