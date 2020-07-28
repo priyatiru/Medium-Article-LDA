@@ -14,7 +14,7 @@ The dataset contains information about randomly chosen medium articles published
 - Better Marketing
 
 ### Observations and Conclusions made- 
-                       topic       claps
+                   topic       claps
 * 0       Deep Learning and AI  263.275862
 * 1      General Data Analysis  302.196507
 * 2  Machine Learning Modeling  286.637255
